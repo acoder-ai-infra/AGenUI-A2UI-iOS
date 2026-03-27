@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = '13.0'
 
   spec.ios.vendored_frameworks = [
-    "Framework/AGenUI.xcframework",
+    "Frameworks/AGenUI.xcframework",
   ]
 
   spec.dependency 'FlexLayout'
