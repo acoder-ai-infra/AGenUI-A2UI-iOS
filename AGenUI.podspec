@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.homepage      = 'https://github.com/acoder-ai-infra/AGenUI'
   spec.author        = { 'ACoder AI Infra' => 'tengjixiang.ttjx@autonavi.com' }
   spec.license       = { :type => 'MIT', :file => 'LICENSE' }
-  spec.source           = { :git => 'https://github.com/acoder-ai-infra/AGenUI-A2UI-iOS.git', :tag => s.version.to_s }
+  spec.source           = { :git => 'https://github.com/acoder-ai-infra/AGenUI-A2UI-iOS.git', :tag => spec.version.to_s }
   spec.swift_version = '5.0'
   spec.ios.deployment_target = '13.0'
 
