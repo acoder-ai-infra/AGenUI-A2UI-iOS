@@ -1,0 +1,6 @@
+framework module AGenUI {
+  umbrella header "AGenUI.h"
+  export *
+
+  module * { export * }
+}

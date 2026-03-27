@@ -1,0 +1,60 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name AGenUI
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
+@_exported import AGenUI
+import AVFoundation
+import AVKit
+import DGCharts
+import FlexLayout
+import Foundation
+import Lottie
+import MarkdownKit
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum SurfaceState {
+  case created
+  case destroyed
+  public static func == (a: AGenUI.SurfaceState, b: AGenUI.SurfaceState) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc public class Surface : ObjectiveC.NSObject {
+  @objc final public let surfaceId: Swift.String
+  public var state: AGenUI.SurfaceState {
+    get
+  }
+  @objc public var view: UIKit.UIView
+  @objc public var onLayoutChanged: (() -> Swift.Void)?
+  @objc public init(surfaceId: Swift.String)
+  @objc public func updateSize(width: CoreFoundation.CGFloat, height: CoreFoundation.CGFloat)
+  @objc deinit
+}
+@objc public protocol SurfaceManagerListener {
+  @objc optional func onCreateSurface(_ surface: AGenUI.Surface)
+  @objc optional func onDeleteSurface(_ surfaceId: Swift.String)
+}
+@_inheritsConvenienceInitializers @objc public class SurfaceManager : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc deinit
+  @objc public func addListener(_ listener: any AGenUI.SurfaceManagerListener)
+  @objc public func removeListener(_ listener: any AGenUI.SurfaceManagerListener)
+  @objc public func removeAllListeners()
+  @objc public func receiveTextChunk(_ dataString: Swift.String)
+  @objc public class SurfaceManagerError : ObjectiveC.NSObject {
+    @objc final public let result: Swift.Bool
+    @objc final public let message: Swift.String
+    @objc public init(result: Swift.Bool, message: Swift.String)
+    @objc deinit
+  }
+  @objc public func registerDefaultTheme(_ theme: Swift.String, designToken: Swift.String) -> AGenUI.SurfaceManager.SurfaceManagerError
+  @objc public func setDayNightMode(_ mode: Swift.String)
+}
+extension AGenUI.SurfaceState : Swift.Equatable {}
+extension AGenUI.SurfaceState : Swift.Hashable {}

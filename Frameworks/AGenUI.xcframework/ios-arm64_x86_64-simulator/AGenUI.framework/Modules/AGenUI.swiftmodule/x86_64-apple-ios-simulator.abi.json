@@ -1,0 +1,4590 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "AGenUI",
+    "printedName": "AGenUI",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "DGCharts",
+        "printedName": "DGCharts",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SurfaceState",
+        "printedName": "SurfaceState",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "created",
+            "printedName": "created",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AGenUI.SurfaceState.Type) -> AGenUI.SurfaceState",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SurfaceState",
+                    "printedName": "AGenUI.SurfaceState",
+                    "usr": "s:6AGenUI12SurfaceStateO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AGenUI.SurfaceState.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SurfaceState",
+                        "printedName": "AGenUI.SurfaceState",
+                        "usr": "s:6AGenUI12SurfaceStateO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6AGenUI12SurfaceStateO7createdyA2CmF",
+            "mangledName": "$s6AGenUI12SurfaceStateO7createdyA2CmF",
+            "moduleName": "AGenUI"
+          },
+          {
+            "kind": "Var",
+            "name": "destroyed",
+            "printedName": "destroyed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AGenUI.SurfaceState.Type) -> AGenUI.SurfaceState",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SurfaceState",
+                    "printedName": "AGenUI.SurfaceState",
+                    "usr": "s:6AGenUI12SurfaceStateO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AGenUI.SurfaceState.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SurfaceState",
+                        "printedName": "AGenUI.SurfaceState",
+                        "usr": "s:6AGenUI12SurfaceStateO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6AGenUI12SurfaceStateO9destroyedyA2CmF",
+            "mangledName": "$s6AGenUI12SurfaceStateO9destroyedyA2CmF",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SurfaceState",
+                "printedName": "AGenUI.SurfaceState",
+                "usr": "s:6AGenUI12SurfaceStateO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SurfaceState",
+                "printedName": "AGenUI.SurfaceState",
+                "usr": "s:6AGenUI12SurfaceStateO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6AGenUI12SurfaceStateO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s6AGenUI12SurfaceStateO2eeoiySbAC_ACtFZ",
+            "moduleName": "AGenUI",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6AGenUI12SurfaceStateO9hashValueSivp",
+            "mangledName": "$s6AGenUI12SurfaceStateO9hashValueSivp",
+            "moduleName": "AGenUI",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6AGenUI12SurfaceStateO9hashValueSivg",
+                "mangledName": "$s6AGenUI12SurfaceStateO9hashValueSivg",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6AGenUI12SurfaceStateO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s6AGenUI12SurfaceStateO4hash4intoys6HasherVz_tF",
+            "moduleName": "AGenUI",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:6AGenUI12SurfaceStateO",
+        "mangledName": "$s6AGenUI12SurfaceStateO",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Surface",
+        "printedName": "Surface",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "surfaceId",
+            "printedName": "surfaceId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AGenUI@objc(cs)Surface(py)surfaceId",
+            "mangledName": "$s6AGenUI7SurfaceC9surfaceIdSSvp",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AGenUI@objc(cs)Surface(im)surfaceId",
+                "mangledName": "$s6AGenUI7SurfaceC9surfaceIdSSvg",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "state",
+            "printedName": "state",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SurfaceState",
+                "printedName": "AGenUI.SurfaceState",
+                "usr": "s:6AGenUI12SurfaceStateO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6AGenUI7SurfaceC5stateAA0C5StateOvp",
+            "mangledName": "$s6AGenUI7SurfaceC5stateAA0C5StateOvp",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SurfaceState",
+                    "printedName": "AGenUI.SurfaceState",
+                    "usr": "s:6AGenUI12SurfaceStateO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6AGenUI7SurfaceC5stateAA0C5StateOvg",
+                "mangledName": "$s6AGenUI7SurfaceC5stateAA0C5StateOvg",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "view",
+            "printedName": "view",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AGenUI@objc(cs)Surface(py)view",
+            "mangledName": "$s6AGenUI7SurfaceC4viewSo6UIViewCvp",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AGenUI@objc(cs)Surface(im)view",
+                "mangledName": "$s6AGenUI7SurfaceC4viewSo6UIViewCvg",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AGenUI@objc(cs)Surface(im)setView:",
+                "mangledName": "$s6AGenUI7SurfaceC4viewSo6UIViewCvs",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6AGenUI7SurfaceC4viewSo6UIViewCvM",
+                "mangledName": "$s6AGenUI7SurfaceC4viewSo6UIViewCvM",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onLayoutChanged",
+            "printedName": "onLayoutChanged",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AGenUI@objc(cs)Surface(py)onLayoutChanged",
+            "mangledName": "$s6AGenUI7SurfaceC15onLayoutChangedyycSgvp",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AGenUI@objc(cs)Surface(im)onLayoutChanged",
+                "mangledName": "$s6AGenUI7SurfaceC15onLayoutChangedyycSgvg",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AGenUI@objc(cs)Surface(im)setOnLayoutChanged:",
+                "mangledName": "$s6AGenUI7SurfaceC15onLayoutChangedyycSgvs",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6AGenUI7SurfaceC15onLayoutChangedyycSgvM",
+                "mangledName": "$s6AGenUI7SurfaceC15onLayoutChangedyycSgvM",
+                "moduleName": "AGenUI",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(surfaceId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Surface",
+                "printedName": "AGenUI.Surface",
+                "usr": "c:@M@AGenUI@objc(cs)Surface"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AGenUI@objc(cs)Surface(im)initWithSurfaceId:",
+            "mangledName": "$s6AGenUI7SurfaceC9surfaceIdACSS_tcfc",
+            "moduleName": "AGenUI",
+            "objc_name": "initWithSurfaceId:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "updateSize",
+            "printedName": "updateSize(width:height:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(cs)Surface(im)updateSizeWithWidth:height:",
+            "mangledName": "$s6AGenUI7SurfaceC10updateSize5width6heighty12CoreGraphics7CGFloatV_AItF",
+            "moduleName": "AGenUI",
+            "objc_name": "updateSizeWithWidth:height:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Surface",
+                "printedName": "AGenUI.Surface",
+                "usr": "c:@M@AGenUI@objc(cs)Surface"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AGenUI@objc(cs)Surface(im)init",
+            "mangledName": "$s6AGenUI7SurfaceCACycfc",
+            "moduleName": "AGenUI",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AGenUI@objc(cs)Surface",
+        "mangledName": "$s6AGenUI7SurfaceC",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MarkdownKit",
+        "printedName": "MarkdownKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SurfaceManagerListener",
+        "printedName": "SurfaceManagerListener",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onCreateSurface",
+            "printedName": "onCreateSurface(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Surface",
+                "printedName": "AGenUI.Surface",
+                "usr": "c:@M@AGenUI@objc(cs)Surface"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(pl)SurfaceManagerListener(im)onCreateSurface:",
+            "mangledName": "$s6AGenUI22SurfaceManagerListenerP08onCreateC0yyAA0C0CF",
+            "moduleName": "AGenUI",
+            "genericSig": "<τ_0_0 where τ_0_0 : AGenUI.SurfaceManagerListener>",
+            "sugared_genericSig": "<Self where Self : AGenUI.SurfaceManagerListener>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onDeleteSurface",
+            "printedName": "onDeleteSurface(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(pl)SurfaceManagerListener(im)onDeleteSurface:",
+            "mangledName": "$s6AGenUI22SurfaceManagerListenerP08onDeleteC0yySSF",
+            "moduleName": "AGenUI",
+            "genericSig": "<τ_0_0 where τ_0_0 : AGenUI.SurfaceManagerListener>",
+            "sugared_genericSig": "<Self where Self : AGenUI.SurfaceManagerListener>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "c:@M@AGenUI@objc(pl)SurfaceManagerListener",
+        "mangledName": "$s6AGenUI22SurfaceManagerListenerP",
+        "moduleName": "AGenUI",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SurfaceManager",
+        "printedName": "SurfaceManager",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SurfaceManager",
+                "printedName": "AGenUI.SurfaceManager",
+                "usr": "c:@M@AGenUI@objc(cs)SurfaceManager"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AGenUI@objc(cs)SurfaceManager(im)init",
+            "mangledName": "$s6AGenUI14SurfaceManagerCACycfc",
+            "moduleName": "AGenUI",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "addListener",
+            "printedName": "addListener(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SurfaceManagerListener",
+                "printedName": "any AGenUI.SurfaceManagerListener",
+                "usr": "c:@M@AGenUI@objc(pl)SurfaceManagerListener"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(cs)SurfaceManager(im)addListener:",
+            "mangledName": "$s6AGenUI14SurfaceManagerC11addListeneryyAA0cdF0_pF",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "removeListener",
+            "printedName": "removeListener(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SurfaceManagerListener",
+                "printedName": "any AGenUI.SurfaceManagerListener",
+                "usr": "c:@M@AGenUI@objc(pl)SurfaceManagerListener"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(cs)SurfaceManager(im)removeListener:",
+            "mangledName": "$s6AGenUI14SurfaceManagerC14removeListeneryyAA0cdF0_pF",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "removeAllListeners",
+            "printedName": "removeAllListeners()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(cs)SurfaceManager(im)removeAllListeners",
+            "mangledName": "$s6AGenUI14SurfaceManagerC18removeAllListenersyyF",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "receiveTextChunk",
+            "printedName": "receiveTextChunk(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(cs)SurfaceManager(im)receiveTextChunk:",
+            "mangledName": "$s6AGenUI14SurfaceManagerC16receiveTextChunkyySSF",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "SurfaceManagerError",
+            "printedName": "SurfaceManagerError",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "result",
+                "printedName": "result",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC6resultSbvp",
+                "mangledName": "$s6AGenUI14SurfaceManagerC0cD5ErrorC6resultSbvp",
+                "moduleName": "AGenUI",
+                "declAttributes": [
+                  "Final",
+                  "HasStorage",
+                  "AccessControl",
+                  "ObjC",
+                  "RawDocComment"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC6resultSbvg",
+                    "mangledName": "$s6AGenUI14SurfaceManagerC0cD5ErrorC6resultSbvg",
+                    "moduleName": "AGenUI",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final",
+                      "ObjC"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "message",
+                "printedName": "message",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC7messageSSvp",
+                "mangledName": "$s6AGenUI14SurfaceManagerC0cD5ErrorC7messageSSvp",
+                "moduleName": "AGenUI",
+                "declAttributes": [
+                  "Final",
+                  "HasStorage",
+                  "AccessControl",
+                  "ObjC",
+                  "RawDocComment"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC7messageSSvg",
+                    "mangledName": "$s6AGenUI14SurfaceManagerC0cD5ErrorC7messageSSvg",
+                    "moduleName": "AGenUI",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final",
+                      "ObjC"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(result:message:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SurfaceManagerError",
+                    "printedName": "AGenUI.SurfaceManager.SurfaceManagerError",
+                    "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC6result7messageAESb_SStcfc",
+                "mangledName": "$s6AGenUI14SurfaceManagerC0cD5ErrorC6result7messageAESb_SStcfc",
+                "moduleName": "AGenUI",
+                "objc_name": "initWithResult:message:",
+                "declAttributes": [
+                  "AccessControl",
+                  "ObjC"
+                ],
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SurfaceManagerError",
+                    "printedName": "AGenUI.SurfaceManager.SurfaceManagerError",
+                    "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorCAEycfc",
+                "mangledName": "$s6AGenUI14SurfaceManagerC0cD5ErrorCAEycfc",
+                "moduleName": "AGenUI",
+                "overriding": true,
+                "implicit": true,
+                "objc_name": "init",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC",
+                  "Override"
+                ],
+                "init_kind": "Designated"
+              }
+            ],
+            "declKind": "Class",
+            "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC",
+            "mangledName": "$s6AGenUI14SurfaceManagerC0cD5ErrorC",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "superclassUsr": "c:objc(cs)NSObject",
+            "superclassNames": [
+              "ObjectiveC.NSObject"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CVarArg",
+                "printedName": "CVarArg",
+                "usr": "s:s7CVarArgP",
+                "mangledName": "$ss7CVarArgP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObservingPublishing",
+                "printedName": "_KeyValueCodingAndObservingPublishing",
+                "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+                "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObserving",
+                "printedName": "_KeyValueCodingAndObserving",
+                "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+                "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomStringConvertible",
+                "printedName": "CustomStringConvertible",
+                "usr": "s:s23CustomStringConvertibleP",
+                "mangledName": "$ss23CustomStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomDebugStringConvertible",
+                "printedName": "CustomDebugStringConvertible",
+                "usr": "s:s28CustomDebugStringConvertibleP",
+                "mangledName": "$ss28CustomDebugStringConvertibleP"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "registerDefaultTheme",
+            "printedName": "registerDefaultTheme(_:designToken:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SurfaceManagerError",
+                "printedName": "AGenUI.SurfaceManager.SurfaceManagerError",
+                "usr": "s:6AGenUI14SurfaceManagerC0cD5ErrorC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(cs)SurfaceManager(im)registerDefaultTheme:designToken:",
+            "mangledName": "$s6AGenUI14SurfaceManagerC20registerDefaultTheme_11designTokenAC0cD5ErrorCSS_SStF",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setDayNightMode",
+            "printedName": "setDayNightMode(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AGenUI@objc(cs)SurfaceManager(im)setDayNightMode:",
+            "mangledName": "$s6AGenUI14SurfaceManagerC15setDayNightModeyySSF",
+            "moduleName": "AGenUI",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AGenUI@objc(cs)SurfaceManager",
+        "mangledName": "$s6AGenUI14SurfaceManagerC",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FlexLayout",
+        "printedName": "FlexLayout",
+        "declKind": "Import",
+        "moduleName": "AGenUI"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AGenUI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2287,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2332,
+      "length": 19,
+      "value": "\"mutuallyExclusive\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "Array",
+      "offset": 2411,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2452,
+      "length": 10,
+      "value": "\"vertical\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "Array",
+      "offset": 2605,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2745,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2795,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2847,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2913,
+      "length": 4,
+      "value": "0x2E"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2918,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2932,
+      "length": 4,
+      "value": "0x82"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2937,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2950,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2955,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2969,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3034,
+      "length": 4,
+      "value": "0x2E"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3039,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3053,
+      "length": 4,
+      "value": "0x82"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3058,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3071,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3076,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3090,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3237,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3280,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3362,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChoicePickerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3402,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CSS\/CSSPropertyRegistry.swift",
+      "kind": "Dictionary",
+      "offset": 638,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CSS\/CSSPropertyRegistry.swift",
+      "kind": "BooleanLiteral",
+      "offset": 713,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/BaseA2UIComponent.swift",
+      "kind": "Array",
+      "offset": 761,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 6,
+      "value": "\"none\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 319,
+      "length": 11,
+      "value": "\"underline\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 351,
+      "length": 10,
+      "value": "\"overline\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 385,
+      "length": 14,
+      "value": "\"line-through\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 512,
+      "length": 7,
+      "value": "\"solid\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 538,
+      "length": 8,
+      "value": "\"double\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 565,
+      "length": 8,
+      "value": "\"dotted\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 592,
+      "length": 8,
+      "value": "\"dashed\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 6,
+      "value": "\"wavy\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 985,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8187,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8228,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8266,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8303,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8338,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8401,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8435,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8476,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8514,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 10055,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DividerComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 225,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DividerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 252,
+      "length": 12,
+      "value": "\"horizontal\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DividerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 7,
+      "value": "\"solid\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DividerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 399,
+      "length": 11,
+      "value": "\"#0000000F\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DividerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 9170,
+      "length": 10,
+      "value": "\"vertical\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CSS\/CSSPropertyAlias.swift",
+      "kind": "Dictionary",
+      "offset": 523,
+      "length": 1657,
+      "value": "[(\"backgroundColor\", \"background-color\"), (\"background\", \"background\"), (\"cornerRadius\", \"border-radius\"), (\"borderColor\", \"border-color\"), (\"borderWidth\", \"border-width\"), (\"borderStyle\", \"border-style\"), (\"boxShadow\", \"box-shadow\"), (\"justifyContent\", \"justify-content\"), (\"justify\", \"justify-content\"), (\"align\", \"align-items\"), (\"alignSelf\", \"align-self\"), (\"alignContent\", \"align-content\"), (\"flexGrow\", \"flex-grow\"), (\"flexShrink\", \"flex-shrink\"), (\"flexWrap\", \"flex-wrap\"), (\"flexBasis\", \"flex-basis\"), (\"maxWidth\", \"max-width\"), (\"maxHeight\", \"max-height\"), (\"minWidth\", \"min-width\"), (\"minHeight\", \"min-height\"), (\"marginInlineStart\", \"margin-inline-start\"), (\"marginInlineEnd\", \"margin-inline-end\"), (\"marginBlockStart\", \"margin-block-start\"), (\"marginBlockEnd\", \"margin-block-end\"), (\"paddingInlineStart\", \"padding-inline-start\"), (\"paddingInlineEnd\", \"padding-inline-end\"), (\"paddingBlockStart\", \"padding-block-start\"), (\"paddingBlockEnd\", \"padding-block-end\"), (\"marginTop\", \"margin-top\"), (\"marginRight\", \"margin-right\"), (\"marginBottom\", \"margin-bottom\"), (\"marginLeft\", \"margin-left\"), (\"paddingTop\", \"padding-top\"), (\"paddingRight\", \"padding-right\"), (\"paddingBottom\", \"padding-bottom\"), (\"paddingLeft\", \"padding-left\")]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "Array",
+      "offset": 741,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "Array",
+      "offset": 788,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 849,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 901,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 961,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "Array",
+      "offset": 1005,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1115,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1240,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1289,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1344,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1397,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1453,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1530,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1581,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1669,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1818,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1878,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1956,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2019,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CarouselComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2257,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/ComponentRegistry.swift",
+      "kind": "Dictionary",
+      "offset": 638,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1244,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1391,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/ComponentStyleConfigManager.swift",
+      "kind": "Dictionary",
+      "offset": 601,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/ComponentStyleConfigManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3531,
+      "length": 4,
+      "value": "\"ms\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/ComponentStyleConfigManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3543,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/ComponentStyleConfigManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 3645,
+      "length": 6,
+      "value": "1000.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/ComponentStyleConfigManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4425,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/ComponentStyleConfigManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4437,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1323,
+      "length": 2,
+      "value": "80"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1366,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1410,
+      "length": 2,
+      "value": "35"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1450,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1504,
+      "length": 9,
+      "value": "\"#2273F7\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1621,
+      "length": 9,
+      "value": "\"#2273F7\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1744,
+      "length": 9,
+      "value": "\"#2273F7\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1817,
+      "length": 9,
+      "value": "\"#2273F7\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1890,
+      "length": 9,
+      "value": "\"#CCCCCC\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12466,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/AudioPlayerComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12502,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1427,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1473,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1513,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1558,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1835,
+      "length": 2,
+      "value": "56"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1881,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1955,
+      "length": 2,
+      "value": "34"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1958,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1970,
+      "length": 3,
+      "value": "115"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1974,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1985,
+      "length": 3,
+      "value": "247"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1989,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2001,
+      "length": 4,
+      "value": "0.08"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2072,
+      "length": 2,
+      "value": "34"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2075,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2087,
+      "length": 3,
+      "value": "115"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2091,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2102,
+      "length": 3,
+      "value": "247"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2106,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2118,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2233,
+      "length": 14,
+      "value": "\"选择日期\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2298,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2353,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2403,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2469,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2479,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2536,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2613,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2660,
+      "length": 2,
+      "value": "80"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2781,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2791,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2906,
+      "length": 3,
+      "value": "368"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2971,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2981,
+      "length": 4,
+      "value": "0.06"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3034,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3142,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "Array",
+      "offset": 3205,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3246,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3250,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3290,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3294,
+      "length": 2,
+      "value": "31"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3335,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3339,
+      "length": 2,
+      "value": "23"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3382,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/DateTimeInputComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3386,
+      "length": 2,
+      "value": "59"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CSS\/CSSPropertyParser.swift",
+      "kind": "FloatLiteral",
+      "offset": 367,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/RichTextComponent.swift",
+      "kind": "Array",
+      "offset": 1311,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/RichTextComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1350,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 913,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 953,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 991,
+      "length": 5,
+      "value": "100.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1107,
+      "length": 2,
+      "value": "48"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1149,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1196,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1256,
+      "length": 4,
+      "value": "0x1A"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1261,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1275,
+      "length": 4,
+      "value": "0x66"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1280,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1293,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1298,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1312,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1375,
+      "length": 4,
+      "value": "0xEE"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1380,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1394,
+      "length": 4,
+      "value": "0xF0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1399,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1412,
+      "length": 4,
+      "value": "0xF4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1417,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1431,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1482,
+      "length": 2,
+      "value": "48"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1581,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1640,
+      "length": 4,
+      "value": "0x1A"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1645,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1659,
+      "length": 4,
+      "value": "0x66"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1664,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1677,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1682,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/SliderComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1696,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "StringLiteral",
+      "offset": 784,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "StringLiteral",
+      "offset": 996,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1111,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1250,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1395,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1590,
+      "length": 4,
+      "value": "0x2E"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1595,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1609,
+      "length": 4,
+      "value": "0x82"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1614,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1627,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1632,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1646,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1804,
+      "length": 4,
+      "value": "0x2E"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1809,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1823,
+      "length": 4,
+      "value": "0x82"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1828,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1841,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1846,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1860,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 2199,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2361,
+      "length": 4,
+      "value": "0xEB"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 2366,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2380,
+      "length": 4,
+      "value": "0xEB"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 2385,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2398,
+      "length": 4,
+      "value": "0xEB"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 2403,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 2417,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 2595,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2737,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 3037,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3162,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3691,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3783,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3922,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/CheckBoxButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 3957,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1143,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1190,
+      "length": 11,
+      "value": "\"shortText\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1270,
+      "length": 13,
+      "value": "\"PingFang SC\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1320,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1361,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1432,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1557,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1617,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1629,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1640,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TextFieldComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1652,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChartComponent.swift",
+      "kind": "Array",
+      "offset": 811,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChartComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 946,
+      "length": 6,
+      "value": "\"line\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChartComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 974,
+      "length": 7,
+      "value": "\"donut\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChartComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1001,
+      "length": 5,
+      "value": "\"pie\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ChartComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1026,
+      "length": 5,
+      "value": "\"bar\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Surface\/Surface.swift",
+      "kind": "Dictionary",
+      "offset": 1206,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/IconComponent.swift",
+      "kind": "Dictionary",
+      "offset": 1920,
+      "length": 1981,
+      "value": "[(\"accountCircle\", \"person.circle\"), (\"add\", \"plus\"), (\"arrowBack\", \"arrow.left\"), (\"arrowForward\", \"arrow.right\"), (\"attachFile\", \"paperclip\"), (\"calendarToday\", \"calendar\"), (\"call\", \"phone\"), (\"camera\", \"camera\"), (\"check\", \"checkmark\"), (\"close\", \"xmark\"), (\"delete\", \"trash\"), (\"download\", \"arrow.down.circle\"), (\"edit\", \"pencil\"), (\"event\", \"calendar.badge.clock\"), (\"error\", \"exclamationmark.circle\"), (\"fastForward\", \"forward.fill\"), (\"favorite\", \"heart.fill\"), (\"favoriteOff\", \"heart\"), (\"folder\", \"folder\"), (\"help\", \"questionmark.circle\"), (\"home\", \"house\"), (\"info\", \"info.circle\"), (\"locationOn\", \"location.fill\"), (\"lock\", \"lock\"), (\"lockOpen\", \"lock.open\"), (\"mail\", \"envelope\"), (\"menu\", \"line.3.horizontal\"), (\"moreVert\", \"ellipsis\"), (\"moreHoriz\", \"ellipsis\"), (\"notificationsOff\", \"bell.slash\"), (\"notifications\", \"bell\"), (\"pause\", \"pause\"), (\"payment\", \"creditcard\"), (\"person\", \"person\"), (\"phone\", \"phone\"), (\"photo\", \"photo\"), (\"play\", \"play\"), (\"print\", \"printer\"), (\"refresh\", \"arrow.clockwise\"), (\"rewind\", \"backward.fill\"), (\"search\", \"magnifyingglass\"), (\"send\", \"paperplane\"), (\"settings\", \"gearshape\"), (\"share\", \"square.and.arrow.up\"), (\"shoppingCart\", \"cart\"), (\"skipNext\", \"forward.end.fill\"), (\"skipPrevious\", \"backward.end.fill\"), (\"star\", \"star.fill\"), (\"starHalf\", \"star.leadinghalf.filled\"), (\"starOff\", \"star\"), (\"stop\", \"stop\"), (\"upload\", \"arrow.up.circle\"), (\"visibility\", \"eye\"), (\"visibilityOff\", \"eye.slash\"), (\"volumeDown\", \"speaker.wave.1\"), (\"volumeMute\", \"speaker.slash\"), (\"volumeOff\", \"speaker\"), (\"volumeUp\", \"speaker.wave.3\"), (\"warning\", \"exclamationmark.triangle\")]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 374,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 413,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 451,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 492,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 531,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Logger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1003,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Logger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1258,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/SVGToImageParser.swift",
+      "kind": "Array",
+      "offset": 2298,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/SVGToImageParser.swift",
+      "kind": "Dictionary",
+      "offset": 2728,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 985,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1087,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1137,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1189,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1255,
+      "length": 4,
+      "value": "0x2E"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1260,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1274,
+      "length": 4,
+      "value": "0x82"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1279,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1292,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1297,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1311,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1376,
+      "length": 4,
+      "value": "0x2E"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1381,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1395,
+      "length": 4,
+      "value": "0x82"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1400,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1413,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1418,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1432,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1579,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1648,
+      "length": 4,
+      "value": "0xEB"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1653,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1667,
+      "length": 4,
+      "value": "0xEB"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1672,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1685,
+      "length": 4,
+      "value": "0xEB"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1690,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1704,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1789,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1832,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1956,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/CheckBoxComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1997,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/WebComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1799,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/WebComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1839,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/MarkdownComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1252,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "Array",
+      "offset": 619,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "Array",
+      "offset": 750,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "Array",
+      "offset": 799,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 839,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 886,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "Dictionary",
+      "offset": 981,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 6287,
+      "length": 7,
+      "value": "\"title\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 6310,
+      "length": 5,
+      "value": "\"Tab\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6491,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6743,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6753,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6971,
+      "length": 4,
+      "value": "0x22"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 6976,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6990,
+      "length": 4,
+      "value": "0x73"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 6995,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7008,
+      "length": 4,
+      "value": "0xF7"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 7013,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 7027,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7071,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7273,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7296,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7318,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7593,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7606,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7666,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11730,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 11886,
+      "length": 25,
+      "value": "\"tab-font-color-selected\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 11951,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11973,
+      "length": 4,
+      "value": "0x22"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 11978,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11992,
+      "length": 4,
+      "value": "0x73"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 11997,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12010,
+      "length": 4,
+      "value": "0xF7"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12015,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12029,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12071,
+      "length": 16,
+      "value": "\"tab-font-color\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12127,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12244,
+      "length": 15,
+      "value": "\"tab-font-size\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12313,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12358,
+      "length": 24,
+      "value": "\"tab-font-size-selected\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12497,
+      "length": 17,
+      "value": "\"tab-font-weight\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12530,
+      "length": 8,
+      "value": "\"normal\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12600,
+      "length": 26,
+      "value": "\"tab-font-weight-selected\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 12642,
+      "length": 6,
+      "value": "\"bold\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TabsComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13296,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/SurfaceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1139,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/SurfaceManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1712,
+      "length": 8,
+      "value": "\"object\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/SurfaceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1745,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/SurfaceManager.swift",
+      "kind": "Array",
+      "offset": 1803,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/SurfaceManager.swift",
+      "kind": "Dictionary",
+      "offset": 3425,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ListComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1527,
+      "length": 7,
+      "value": "\"start\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ListComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1599,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ListComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1689,
+      "length": 10,
+      "value": "\"vertical\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ListComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1726,
+      "length": 12,
+      "value": "\"horizontal\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ModalComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1217,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/ModalComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 1229,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "Array",
+      "offset": 1989,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "Array",
+      "offset": 2053,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "Array",
+      "offset": 2127,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2215,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2499,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2670,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2845,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 2956,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3084,
+      "length": 5,
+      "value": "0.878"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3098,
+      "length": 5,
+      "value": "0.878"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3111,
+      "length": 5,
+      "value": "0.878"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3125,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3234,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3373,
+      "length": 5,
+      "value": "0.961"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3387,
+      "length": 5,
+      "value": "0.961"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3400,
+      "length": 5,
+      "value": "0.961"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3414,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "Array",
+      "offset": 3523,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3643,
+      "length": 4,
+      "value": "60.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 3766,
+      "length": 5,
+      "value": "600.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3900,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 4170,
+      "length": 8,
+      "value": "\"center\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 4389,
+      "length": 4,
+      "value": "14.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 4508,
+      "length": 6,
+      "value": "\"bold\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 4641,
+      "length": 5,
+      "value": "0.965"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 4655,
+      "length": 5,
+      "value": "0.969"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 4668,
+      "length": 5,
+      "value": "0.973"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 4682,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 4894,
+      "length": 4,
+      "value": "14.0"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 5011,
+      "length": 8,
+      "value": "\"normal\""
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5133,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5246,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/guolicheng\/Desktop\/git\/GenUI\/GenerativeUI_Client_SDK\/playground\/iOS\/GenerativeUIClientSDK\/SDK\/Render\/Component\/Impl\/TableComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 5334,
+      "length": 4,
+      "value": "44.0"
+    }
+  ]
+}
